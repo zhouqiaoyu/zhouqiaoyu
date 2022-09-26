@@ -1,9 +1,6 @@
 ### Hi there 👋 This is Zhouqiaoyu's Page
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouqiaoyu&count_private=true&show_icons=true)](https://github.com/zhouqiaoyu/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhouqiaoyu&repo=github-readme-stats)](https://github.com/zhouqiaoyu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouqiaoyu&layout=compact)](https://github.com/zhouqiaoyu/github-readme-stats)
 <!--
 **zhouqiaoyu/zhouqiaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
