@@ -5,8 +5,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhouqiaoyu&show_icons=true&locale=en" alt="zhouqiaoyu" /></p>
- -->
+
 - 🔭 I’m currently working on **Home**
 
 - 👯 I’m looking to collaborate on **learning frontend technology**
