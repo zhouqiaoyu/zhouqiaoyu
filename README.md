@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm zhouqiaoyu</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhouqiaoyu" alt="zhouqiaoyu" /></a> </p>
-
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
